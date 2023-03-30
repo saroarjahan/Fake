@@ -22,6 +22,4 @@ in each dataset, and for the first 10-users in each dataset, and first 15 users 
 3. We want to compare the average time a user stays before sending a new message. Write a script
 that uses the date information on the dataset for each tweet to calculate the average waiting time
 for a random user before sending a new message in case of Fake News and Real News.
-5. Study the behavior of user ids who contributed to both Fake News and Real News. Based on your
-observation from 2)-3)-4) and any other scrutinizing, suggest statistical index that would
-discriminate Fake News and Real News tweets of the same user.
+
