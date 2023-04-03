@@ -9,7 +9,7 @@ taken at face value; iv) Slanted reporting of real facts; v) Stories where the '
 dataset can be downloaded from Fakenews on 2016 US elections viral tweets (November 2016 - March
 2017) | Zenodo
 
-
+### Lab -2: 
 1. Write a script for the calculus of the mean, standard deviation, kurtosis and skewness of Number
 of follower per user in case of Fake News and Real News dataset. Repeat this process for Favorite
 Count as well. Conclude whether one can discriminate the two classes using such statistical data.
