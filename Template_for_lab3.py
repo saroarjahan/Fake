@@ -88,19 +88,19 @@ fake_news_mentions = get_mentions(fake_news_data)
 graph=draw_graph(fake_news_mentions)
 
 
-#part 6
+#Closeness centrality
 
 bc = nx.centrality.# complete the line
 avg_bc = # complete the line
 print(avg_bc)
 
-
+#Closeness centrality
 cc = nx.centrality.# complete the line
 avg_cc = # complete the line
 print(avg_cc)
 
-
-dc = nx.degree_centrality(G)
+#degree centrality
+dc = nx.# complete the line
 avg_dc1 = # complete the line
 print(avg_dc)
 
