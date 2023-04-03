@@ -33,7 +33,7 @@ Fake News are globally originated from bots or humans and whether Real News are 
 by bots. If the computational time is an issue to test the whole data, you can choose a random selection of the
 data as well. (N.B: Just Get familirity with theses steps, proably u wont be able to complete this part since its need advance API)
 
-5.Create a social network from the Twitter dataset. For this purpose, consider the
+5. Create a social network from the Twitter dataset. For this purpose, consider the
 mention reference in Twitter. More specifically, write a small program that allows you to identify
 the “mention” in each tweet message (word precedent by “@”). Now, construct a network graph
 where the nodes correspond to the user ID while the edge between two nodes, say A and B,
