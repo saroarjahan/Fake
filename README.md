@@ -23,3 +23,4 @@ in each dataset, and for the first 10-users in each dataset, and first 15 users 
 that uses the date information on the dataset for each tweet to calculate the average waiting time
 for a random user before sending a new message in case of Fake News and Real News.
 
+### Lab -3: 
